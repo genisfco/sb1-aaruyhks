@@ -38,7 +38,7 @@ export const Dashboard: React.FC = () => {
                 <Home className="h-6 w-6 text-blue-600" />
               </div>
               <div>
-                <p className="text-sm text-red'-600">Imóveis Ocupados</p>
+                <p className="text-sm text-red-600">Imóveis Ocupados</p>
                 <p className="text-xl font-semibold">{occupiedProperties} de {totalProperties}</p>
               </div>
             </div>
